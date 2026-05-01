@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elvin Jr.</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3WuagBkXjI2SHfgDsU/giphy.gif" width="300"/>
+<p align="center"> O ( ´• ‿ •`) O
 </p>
 
 ---
